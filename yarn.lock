@@ -8406,15 +8406,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jiti@npm:^1.12.14, jiti@npm:^1.12.9, jiti@npm:^1.13.0":
-  version: 1.13.0
-  resolution: "jiti@npm:1.13.0"
-  bin:
-    jiti: bin/jiti.js
-  checksum: 1e74d99b9a551df952057b8bce56f744caccca0044aa05021643e6ce0837ed47bc2d5b290fecb462e32988c6bf318afe77e341310c5ecf6bb63c19c80c929cb6
-  languageName: node
-  linkType: hard
-
 "jiti@npm:^1.14.0":
   version: 1.14.0
   resolution: "jiti@npm:1.14.0"
