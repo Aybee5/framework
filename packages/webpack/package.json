@@ -50,7 +50,7 @@
     "webpack-bundle-analyzer": "^4.5.0",
     "webpack-dev-middleware": "^5.3.3",
     "webpack-hot-middleware": "^2.25.1",
-    "webpack-virtual-modules": "^0.4.3",
+    "webpack-virtual-modules": "^0.4.4",
     "webpackbar": "^5.0.2"
   },
   "devDependencies": {
